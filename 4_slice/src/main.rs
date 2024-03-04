@@ -13,7 +13,7 @@ fn main() {
     println!("The first word in s_slice:\"{}\" is {} ", s_slice, first_word);
 }
 
-// slice
+// 4_slice
 fn first_word(str: &String) -> usize{
     let bytes = str.as_bytes();
 
@@ -25,7 +25,7 @@ fn first_word(str: &String) -> usize{
     str.len()
 }
 
-fn _first_word(str :&String) -> &str{ //Todo: &str is slice
+fn _first_word(str :&String) -> &str{ //Todo: &str is 4_slice
     let bytes = str.as_bytes();
     for (i, &item) in bytes.iter().enumerate(){
         if item == b' '{

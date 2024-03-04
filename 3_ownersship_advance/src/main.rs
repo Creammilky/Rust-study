@@ -3,7 +3,7 @@ use std::io::stdout;
 fn main() {
     let s_taken = String::from("Hello world");
     take_ownership(s_taken);
-    // TODO: this cause error because the ownership of String s_taken has been taken in function take_ownership
+    // TODO: this cause error because the 1_ownership of String s_taken has been taken in function take_ownership
     //println!("s_taken: {}", s_taken);
 
     let s_giveback : String = String :: from("Hi Rust 💕🥰");
@@ -33,7 +33,7 @@ fn calculate_string_length(str: String) -> (String, usize){
     let len = str.len();
     return (str, len); //return
 }
-// slice, see next
+// 4_slice, see next
 fn first_word(str: &String) -> usize{
     let bytes = str.as_bytes();
 
