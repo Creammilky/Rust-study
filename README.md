@@ -1,5 +1,5 @@
 # Rust Learning
-Author : Carl Tan
+Author : Carl Tan \\
 Date : 2024.02
 ---
 This is my repo of studying a new programming language Rust. From the basic grammar, types, ownership, ..., and such. 
