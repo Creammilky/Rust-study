@@ -7,21 +7,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5678b602-d8b7-4189-8f81-7a4152c03068" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../DeepShallowCopy/.idea/DeepShallowCopy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ownersship_advance/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ownersship_advance/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ownersship_advance/.idea/ownersship_advance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ownersship_advance/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ownersship_advance/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/slice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-    </list>
+    <list default="true" id="5678b602-d8b7-4189-8f81-7a4152c03068" name="更改" comment="added file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,10 +97,27 @@
       <updated>1709536216986</updated>
       <workItem from="1709536218454" duration="1419000" />
       <workItem from="1709540600533" duration="42000" />
+      <workItem from="1709543678933" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added file" />
   </component>
 </project>
