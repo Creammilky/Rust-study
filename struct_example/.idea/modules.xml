@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../6-struct_example/.idea/struct_example.iml" filepath="$PROJECT_DIR$/../6-struct_example/.idea/struct_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../6_struct_example/.idea/struct_example.iml" filepath="$PROJECT_DIR$/../6_struct_example/.idea/struct_example.iml" />
     </modules>
   </component>
 </project>
