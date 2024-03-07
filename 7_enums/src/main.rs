@@ -11,6 +11,11 @@ use crate::message::Message::{ChangeColor, Move, Quit};
 
 #[allow(unused)]
 fn main() {
+    //TODO: enum Option<T> very useful
+    //There is no NULL/nullptr in Rust to avoid null pointer fault
+    let some_value : Option<i32> = Some(12); //Set a type and example value for this var is to be used.
+    let none_calue : Option<String> = None;  //Set a type and None for this var is to be used.
+
     // Example IP
     let four = IpAddrType::V4;
     let six = IpAddrType::V6;
@@ -44,3 +49,4 @@ fn main() {
     let m2 = Move{x:1,y:1};
     let m3 = ChangeColor(255, 255, 0);
 }
+

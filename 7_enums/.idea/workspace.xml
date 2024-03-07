@@ -7,14 +7,8 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f47ae264-b73a-4ad6-bdc1-a2067660254d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Message.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ip_enum.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poker_enums.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6_struct_example/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../6_struct_example/target/.rustc_info.json" afterDir="false" />
+    <list default="true" id="f47ae264-b73a-4ad6-bdc1-a2067660254d" name="更改" comment="Implemented enums">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Cargo.Run enums.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.rust.reset.selective.auto.import": "true",
-    "last_opened_file_path": "D:/BUPT++/Rust/7_enums",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cargo.Run enums.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BUPT++/Rust/7_enums&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Cargo.Run enums">
     <configuration name="Run enums" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package enums --bin enums" />
@@ -110,11 +104,26 @@
       <option name="presentableId" value="Default" />
       <updated>1709649324669</updated>
       <workItem from="1709649325755" duration="16000" />
-      <workItem from="1709705743605" duration="6430000" />
+      <workItem from="1709705743605" duration="6719000" />
+      <workItem from="1709811036560" duration="15000" />
+      <workItem from="1709811192063" duration="433000" />
     </task>
+    <task id="LOCAL-00001" summary="Implemented enums">
+      <option name="closed" value="true" />
+      <created>1709715238359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709715238359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented enums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented enums" />
   </component>
 </project>
